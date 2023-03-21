@@ -14,3 +14,5 @@ In detail:
 2. A Latent Dirichlet Allocation (LDA) analysis - the main model based on topics - is carried out in order to evaluate if different topics emerge between the two periods of analysis
 
 Data for 2020 are extracted using the rtweets package, for the previous year's data, the twint tool in Python was used and the extraction is available as "hashtag_innovazione20_postpy.csv"
+
+Final report is available as "Progetto Social Media Twitter.pdf"
